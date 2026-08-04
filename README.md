@@ -4,4 +4,5 @@ to push to cloud:
 Save the file. 
 Generate the message
 Then commit the file with the message. 
-Then push to cloud
+Then sync to cloud
+Check cloud for updates
